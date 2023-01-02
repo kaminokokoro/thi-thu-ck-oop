@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e16c6570-575c-403a-963d-ef554201bac7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countryarraymanager/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countryarraymanager/CountryArrayManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countryarraymanager/CountryData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countryarraymanager/data/countries1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/AbstractCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/AfricaCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/AsiaCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/CountryData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/CountryFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/CountryListManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/EuropeCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/NorthAmericaCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/OceaniaCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countrylistmanager/SouthAmericaCountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/countries1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/countries2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortstrategy/sortstrategy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortstrategy/sortstrategy/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortstrategy/sortstrategy/ISort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortstrategy/sortstrategy/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortstrategy/sortstrategy/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortstrategy/sortstrategy/SortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trapezoidalrule/trapezoidalrule/TrapezoidalRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi_thu_ck_oop.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JfH7ZoGFCijjRRDNt7OaQKAIq4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/IdeaProjects/thi_thu_ck_oop/src/countryarraymanager/data&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\IdeaProjects\thi_thu_ck_oop\src\countryarraymanager\data" />
+      <recent name="C:\Users\ADMIN\IdeaProjects\thi_thu_ck_oop\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\IdeaProjects\thi_thu_ck_oop\src\countrylistmanager" />
+      <recent name="C:\Users\ADMIN\IdeaProjects\thi_thu_ck_oop\src\countryarraymanager" />
+      <recent name="C:\Users\ADMIN\IdeaProjects\thi_thu_ck_oop\src\data" />
+      <recent name="C:\Users\ADMIN\IdeaProjects\thi_thu_ck_oop\src\sortstrategy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.countrylistmanager.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortstrategy.sortstrategy.App" />
+      <module name="thi_thu_ck_oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortstrategy.sortstrategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrapezoidalRule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trapezoidalrule.trapezoidalrule.TrapezoidalRule" />
+      <module name="thi_thu_ck_oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trapezoidalrule.trapezoidalrule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countryarraymanager.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countryarraymanager.App" />
+      <module name="thi_thu_ck_oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="countryarraymanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countrylistmanager.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countrylistmanager.App" />
+      <module name="thi_thu_ck_oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="countrylistmanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.countrylistmanager.App" />
+        <item itemvalue="Application.TrapezoidalRule" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.countryarraymanager.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e16c6570-575c-403a-963d-ef554201bac7" name="Changes" comment="" />
+      <created>1672462054061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672462054061</updated>
+      <workItem from="1672462056156" duration="8538000" />
+      <workItem from="1672551966336" duration="18401000" />
+      <workItem from="1672640145547" duration="573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
