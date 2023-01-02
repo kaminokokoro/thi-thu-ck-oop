@@ -1,6 +1,1 @@
-# thi-thu-ck-oop
-
-
-
-https://user-images.githubusercontent.com/116713724/203837318-fb29b904-0c11-46c7-9818-d932f5b5c5f7.mp4
-
+![ghjkg](https://user-images.githubusercontent.com/116713724/210240559-3eeae367-eb36-4664-a9d0-a0f6fced7fdb.jpg)
